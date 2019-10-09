@@ -1,2 +1,0 @@
-# RenjieWei.github.io
-website
